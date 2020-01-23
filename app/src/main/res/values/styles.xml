@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string name="optoin1">Search</string>
+    <string name="optoin2">Category</string>
+    <string name="optoin3">ReadLater</string>
+    <string name="optoin4">Find Doctor</string>
+    <string name="optoin5">Find Shop</string>
+
+</resources>
